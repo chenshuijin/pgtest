@@ -1,4 +1,4 @@
-# A simple webapi [![Build Status](https://github.com/apple-touch-icon-57x57.png)](https://github.com/chenshuijin/pgtest)
+# A simple webapi [![Build Status](https://assets-cdn.github.com/favicon.ico)](https://github.com/chenshuijin/pgtest)
 
 # Table of contents
 
